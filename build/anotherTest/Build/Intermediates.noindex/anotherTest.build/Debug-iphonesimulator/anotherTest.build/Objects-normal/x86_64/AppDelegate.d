@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/anotherTest/AppDelegate.m \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/anotherTest/AppDelegate.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/ReactNativeNavigation/ReactNativeNavigation.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/yoga/Yoga.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/yoga/YGEnums.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/yoga/YGMacros.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/yoga/YGValue.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/bbethea/Desktop/react-native-navigation-intro/ios/Pods/Headers/Public/ReactNativeNavigation/RNNBridgeManagerDelegate.h
